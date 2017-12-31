@@ -1,0 +1,150 @@
+/*
+ * Title:   The Brick Architechture & Construction - HTML Template
+ * Author:  QTC Media
+ */
+
+/* --------------------------------------------------------
+[Table of contents]
+
+1. Google Font
+2. Reset CSS
+3. Variables
+4. Mimin
+5. Global
+6. Header
+7. Footer
+8. Home One
+9. Home Two
+10. Home Three
+11. Home Four
+12. Home Five
+13. Home Six
+14. About
+15. Portfolio V1
+16. Portfolio V2
+17. Portfolio Detail
+18. Contact
+19. Blog V1
+20. Blog V2
+21. Blog Detail
+22. Shop
+23. Product Detail
+24. Our Team
+25. Faq's
+26. Maintenance
+27. Coming Soon
+
+[End table of contents]
+----------------------------------------------------------------------- */
+
+
+/*----------------------
+    Google font
+------------------------*/
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:200,200i,300,300i,400,400i,600,600i,700,700i,900');
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i');
+/*----------------------
+    Reset CSS
+------------------------*/
+@import "reset";
+/*----------------------
+    Variables
+------------------------*/
+@import "variables";
+/*----------------------
+    Mimin
+------------------------*/
+@import "mimin";
+/*----------------------
+    Global
+------------------------*/
+@import "global";
+/*----------------------
+    Header
+------------------------*/
+@import "header";
+/*----------------------
+    Footer
+------------------------*/
+@import "footer";
+/*----------------------
+    Home One
+------------------------*/
+@import "index-1";
+/*----------------------
+    Home Two
+------------------------*/
+@import "index-2";
+/*----------------------
+    Home Three
+------------------------*/
+@import "index-3";
+/*----------------------
+    Home Four
+------------------------*/
+@import "index-4";
+/*----------------------
+    Home Five
+------------------------*/
+@import "index-5";
+/*----------------------
+    Home Six
+------------------------*/
+@import "index-6";
+/*----------------------
+    About
+------------------------*/
+@import "about";
+/*----------------------
+    Portfolio V1
+------------------------*/
+@import "portfolio-1";
+/*----------------------
+    Portfolio V2
+------------------------*/
+@import "portfolio-2";
+/*----------------------
+    Portfolio Detail
+------------------------*/
+@import "portfolio-detail";
+/*----------------------
+    Contact
+------------------------*/
+@import "contact";
+/*----------------------
+    Blog V1
+------------------------*/
+@import "blog-1";
+/*----------------------
+    Blog V2
+------------------------*/
+@import "blog-2";
+/*----------------------
+    Blog Detail
+------------------------*/
+@import "blog-detail";
+/*----------------------
+    Shop
+------------------------*/
+@import "shop";
+/*----------------------
+    Product Detail
+------------------------*/
+@import "product-detail";
+/*----------------------
+    Our Team
+------------------------*/
+@import "our-team";
+/*----------------------
+    Faq's
+------------------------*/
+@import "faq";
+/*----------------------
+    Maintenance
+------------------------*/
+@import "maintenance";
+/*----------------------
+    Coming Soon
+------------------------*/
+@import "coming-soon";
